@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="Chal1" targetName="Chal1" />
@@ -11,11 +34,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e2be300-8a7e-4a5b-bd44-09ba7fd47bf3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chal1.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chal1.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
-    </list>
+    <list default="true" id="0e2be300-8a7e-4a5b-bd44-09ba7fd47bf3" name="Default Changelist" comment="edited include statements" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +57,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="RunManager">
     <configuration name="Chal1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Chal1" TARGET_NAME="Chal1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Chal1" RUN_TARGET_NAME="Chal1">
@@ -64,8 +84,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598149002401</updated>
-      <workItem from="1598149005276" duration="516000" />
+      <workItem from="1598149005276" duration="845000" />
     </task>
+    <task id="LOCAL-00001" summary="finished advanced sec6 chal1">
+      <created>1598150232127</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598150232127</updated>
+    </task>
+    <task id="LOCAL-00002" summary="edited include statements">
+      <created>1598150353349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598150353349</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,10 +111,47 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished advanced sec6 chal1" />
+    <MESSAGE value="edited include statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited include statements" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1598150060826">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598150060826" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1598150060825">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.center/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598150060825" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1598150060824">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.left/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598150060824" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1598150060826">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.right/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598150060826" />
+    <state x="469" y="179" key="SettingsEditor" timestamp="1598150160258">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="179" key="SettingsEditor/-1080.-129.1080.1897/0.0.1920.1080@0.0.1920.1080" timestamp="1598150160258" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1598150382926">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598150382926" />
   </component>
 </project>
