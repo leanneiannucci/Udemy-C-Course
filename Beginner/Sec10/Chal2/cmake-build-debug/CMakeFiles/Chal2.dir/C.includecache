@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/leanneiannucci/CLionProjects/UdemyCCourse/Sec10/Chal2/s10c2.c
+s10c2.h
+/Users/leanneiannucci/CLionProjects/UdemyCCourse/Sec10/Chal2/s10c2.h
+string.h
+-
+
+/Users/leanneiannucci/CLionProjects/UdemyCCourse/Sec10/Chal2/s10c2.h
+
