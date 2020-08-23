@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Chal2" targetName="Chal2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7e70805-037c-4f3f-b080-af83fc8892a0" name="Default Changelist" comment="added in a couple errors and am testing keyboard">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chal2.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chal2.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chal2.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chal2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chal2.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chal2.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chal2.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chal2.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chal2.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chal2.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chal2.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Chal2.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Chal2.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectId" id="1b42tMZ3motshb63tFZYCMTgxaM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Chal2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Chal2" TARGET_NAME="Chal2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Chal2" RUN_TARGET_NAME="Chal2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7e70805-037c-4f3f-b080-af83fc8892a0" name="Default Changelist" comment="" />
+      <created>1587877258770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587877258770</updated>
+      <workItem from="1587877259941" duration="959000" />
+      <workItem from="1598148812522" duration="130000" />
+    </task>
+    <task id="LOCAL-00001" summary="committing things for the first time">
+      <created>1587877982417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587877982417</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added in a comment">
+      <created>1587878019487</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587878019487</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added in a couple errors and am testing keyboard shortcut">
+      <created>1587878080700</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587878080700</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="committing things for the first time" />
+    <MESSAGE value="added in a comment" />
+    <MESSAGE value="added in a couple errors and am testing keyboard shortcut" />
+    <option name="LAST_COMMIT_MESSAGE" value="added in a couple errors and am testing keyboard shortcut" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1038" height="582" key="GridCell.Tab.0.bottom" timestamp="1587878291170">
+      <screen x="-1080" y="-152" width="1080" height="1920" />
+    </state>
+    <state width="1038" height="582" key="GridCell.Tab.0.bottom/-1080.-152.1080.1920/0.0.1920.1080@-1080.-152.1080.1920" timestamp="1587877748484" />
+    <state width="1038" height="582" key="GridCell.Tab.0.bottom/-1080.-152.1080.1920/0.23.1920.1057@-1080.-152.1080.1920" timestamp="1587878291170" />
+    <state width="1038" height="582" key="GridCell.Tab.0.center" timestamp="1587878291168">
+      <screen x="-1080" y="-152" width="1080" height="1920" />
+    </state>
+    <state width="1038" height="582" key="GridCell.Tab.0.center/-1080.-152.1080.1920/0.0.1920.1080@-1080.-152.1080.1920" timestamp="1587877748483" />
+    <state width="1038" height="582" key="GridCell.Tab.0.center/-1080.-152.1080.1920/0.23.1920.1057@-1080.-152.1080.1920" timestamp="1587878291168" />
+    <state width="1038" height="582" key="GridCell.Tab.0.left" timestamp="1587878291168">
+      <screen x="-1080" y="-152" width="1080" height="1920" />
+    </state>
+    <state width="1038" height="582" key="GridCell.Tab.0.left/-1080.-152.1080.1920/0.0.1920.1080@-1080.-152.1080.1920" timestamp="1587877748482" />
+    <state width="1038" height="582" key="GridCell.Tab.0.left/-1080.-152.1080.1920/0.23.1920.1057@-1080.-152.1080.1920" timestamp="1587878291168" />
+    <state width="1038" height="582" key="GridCell.Tab.0.right" timestamp="1587878291170">
+      <screen x="-1080" y="-152" width="1080" height="1920" />
+    </state>
+    <state width="1038" height="582" key="GridCell.Tab.0.right/-1080.-152.1080.1920/0.0.1920.1080@-1080.-152.1080.1920" timestamp="1587877748484" />
+    <state width="1038" height="582" key="GridCell.Tab.0.right/-1080.-152.1080.1920/0.23.1920.1057@-1080.-152.1080.1920" timestamp="1587878291170" />
+    <state x="-1060" y="453" key="SettingsEditor" timestamp="1587878288024">
+      <screen x="-1080" y="-152" width="1080" height="1920" />
+    </state>
+    <state x="-1060" y="453" key="SettingsEditor/-1080.-152.1080.1920/0.23.1920.1057@-1080.-152.1080.1920" timestamp="1587878288024" />
+    <state x="-980" y="-52" width="880" height="1720" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587877957679">
+      <screen x="-1080" y="-152" width="1080" height="1920" />
+    </state>
+    <state x="-980" y="-52" width="880" height="1720" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1080.-152.1080.1920/0.0.1920.1080@-1080.-152.1080.1920" timestamp="1587877957679" />
+    <state x="-913" y="472" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587878129152">
+      <screen x="-1080" y="-152" width="1080" height="1920" />
+    </state>
+    <state x="-913" y="472" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1080.-152.1080.1920/0.0.1920.1080@-1080.-152.1080.1920" timestamp="1587878129152" />
+  </component>
+</project>
