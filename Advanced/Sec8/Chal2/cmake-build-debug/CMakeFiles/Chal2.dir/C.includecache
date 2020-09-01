@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/leanneiannucci/CLionProjects/Udemy-C-Course/Advanced/Sec8/Chal2/main.c
+stdio.h
+-
+math.h
+-
+
