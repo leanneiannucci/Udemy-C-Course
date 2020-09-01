@@ -30,14 +30,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc103176-d362-401d-a719-735b818da52c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Chal2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chal2.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chal2.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598928534972</updated>
-      <workItem from="1598928536109" duration="298000" />
+      <workItem from="1598928536109" duration="1147000" />
     </task>
     <task id="LOCAL-00001" summary="created adv sec8 challenge2">
       <created>1598928551917</created>
@@ -98,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598928551917</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finished adv sec8 challenge2">
+      <created>1598928873738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598928873738</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finished adv sec8 challenge2">
+      <created>1598928932728</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598928932728</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +124,25 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created adv sec8 challenge2" />
-    <option name="LAST_COMMIT_MESSAGE" value="created adv sec8 challenge2" />
+    <MESSAGE value="finished adv sec8 challenge2" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished adv sec8 challenge2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1598929910887">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598929910887" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1598929910886">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.center/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598929910886" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1598929910885">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.left/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598929910885" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1598929910886">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.right/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598929910886" />
   </component>
 </project>
