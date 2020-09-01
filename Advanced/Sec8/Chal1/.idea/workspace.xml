@@ -30,14 +30,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05a7ec25-8465-4f90-8317-07134389751f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Chal1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chal1.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chal1.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598303600367</updated>
       <workItem from="1598303603277" duration="520000" />
-      <workItem from="1598905453840" duration="1925000" />
+      <workItem from="1598905453840" duration="2116000" />
     </task>
     <task id="LOCAL-00001" summary="added all files to git">
       <created>1598303620126</created>
@@ -107,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598303626296</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finished chal 1">
+      <created>1598928275336</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598928275336</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,51 +127,41 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added all files to git" />
-    <option name="LAST_COMMIT_MESSAGE" value="added all files to git" />
+    <MESSAGE value="finished chal 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished chal 1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="376" key="GridCell.Tab.0.bottom" timestamp="1598928082724">
+    <state width="1878" height="376" key="GridCell.Tab.0.bottom" timestamp="1598928534495">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="376" key="GridCell.Tab.0.bottom/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598928082724" />
-    <state width="1878" height="376" key="GridCell.Tab.0.center" timestamp="1598928082723">
+    <state width="1878" height="376" key="GridCell.Tab.0.bottom/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598928534495" />
+    <state width="1878" height="376" key="GridCell.Tab.0.center" timestamp="1598928534494">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="376" key="GridCell.Tab.0.center/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598928082723" />
-    <state width="1878" height="376" key="GridCell.Tab.0.left" timestamp="1598928082722">
+    <state width="1878" height="376" key="GridCell.Tab.0.center/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598928534494" />
+    <state width="1878" height="376" key="GridCell.Tab.0.left" timestamp="1598928534494">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="376" key="GridCell.Tab.0.left/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598928082722" />
-    <state width="1878" height="376" key="GridCell.Tab.0.right" timestamp="1598928082723">
+    <state width="1878" height="376" key="GridCell.Tab.0.left/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598928534494" />
+    <state width="1878" height="376" key="GridCell.Tab.0.right" timestamp="1598928534495">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="376" key="GridCell.Tab.0.right/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598928082723" />
-    <state width="1878" height="376" key="GridCell.Tab.1.bottom" timestamp="1598928088370">
+    <state width="1878" height="376" key="GridCell.Tab.0.right/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598928534495" />
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom" timestamp="1598928534499">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="376" key="GridCell.Tab.1.bottom/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598928088370" />
-    <state width="1878" height="376" key="GridCell.Tab.1.center" timestamp="1598928088369">
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598928534499" />
+    <state width="1878" height="376" key="GridCell.Tab.1.center" timestamp="1598928534496">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="376" key="GridCell.Tab.1.center/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598928088369" />
-    <state width="1878" height="376" key="GridCell.Tab.1.left" timestamp="1598928088369">
+    <state width="1878" height="376" key="GridCell.Tab.1.center/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598928534496" />
+    <state width="1878" height="376" key="GridCell.Tab.1.left" timestamp="1598928534496">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="376" key="GridCell.Tab.1.left/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598928088369" />
-    <state width="1878" height="376" key="GridCell.Tab.1.right" timestamp="1598928088370">
+    <state width="1878" height="376" key="GridCell.Tab.1.left/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598928534496" />
+    <state width="1878" height="376" key="GridCell.Tab.1.right" timestamp="1598928534497">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="376" key="GridCell.Tab.1.right/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598928088370" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.c</url>
-          <line>15</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1878" height="376" key="GridCell.Tab.1.right/-1080.-152.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1598928534497" />
   </component>
 </project>
