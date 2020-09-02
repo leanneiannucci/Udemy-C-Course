@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/leanneiannucci/CLionProjects/Udemy-C-Course/Advanced/Sec8/Chal4/main.c
+stdio.h
+-
+s8c4.h
+/Users/leanneiannucci/CLionProjects/Udemy-C-Course/Advanced/Sec8/Chal4/s8c4.h
+
+/Users/leanneiannucci/CLionProjects/Udemy-C-Course/Advanced/Sec8/Chal4/s8c4.c
+s8c4.h
+/Users/leanneiannucci/CLionProjects/Udemy-C-Course/Advanced/Sec8/Chal4/s8c4.h
+
+/Users/leanneiannucci/CLionProjects/Udemy-C-Course/Advanced/Sec8/Chal4/s8c4.h
+

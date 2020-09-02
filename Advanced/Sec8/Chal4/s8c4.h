@@ -9,3 +9,4 @@
 
 void setBit(int *num, int bit);
 int checkBit(int num, int bit);
+long long dec2bin(int n);

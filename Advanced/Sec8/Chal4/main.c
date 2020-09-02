@@ -8,7 +8,7 @@ int main() {
     printf("Enter any number: ");
     scanf("%d",&num);
     newNum = num;
-    printf("\nEnter nth bit to check and set (0-31): ");
+    printf("The number %d is %lld in binary. Enter nth bit to check and set (0-31): ", num, dec2bin(num));
     scanf("%d",&bit);
 
     // check if the nth bit of the given number is set (1) or not
