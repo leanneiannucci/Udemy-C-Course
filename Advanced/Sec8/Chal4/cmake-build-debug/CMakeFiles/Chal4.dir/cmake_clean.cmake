@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Chal4.dir/main.c.o"
+  "CMakeFiles/Chal4.dir/s8c4.c.o"
   "Chal4"
   "Chal4.pdb"
 )

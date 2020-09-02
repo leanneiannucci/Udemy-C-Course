@@ -81,6 +81,12 @@
 		<Unit filename="/Users/leanneiannucci/CLionProjects/Udemy-C-Course/Advanced/Sec8/Chal4/main.c">
 			<Option target="Chal4"/>
 		</Unit>
+		<Unit filename="/Users/leanneiannucci/CLionProjects/Udemy-C-Course/Advanced/Sec8/Chal4/s8c4.c">
+			<Option target="Chal4"/>
+		</Unit>
+		<Unit filename="/Users/leanneiannucci/CLionProjects/Udemy-C-Course/Advanced/Sec8/Chal4/s8c4.h">
+			<Option target="Chal4"/>
+		</Unit>
 		<Unit filename="/Users/leanneiannucci/CLionProjects/Udemy-C-Course/Advanced/Sec8/Chal4/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

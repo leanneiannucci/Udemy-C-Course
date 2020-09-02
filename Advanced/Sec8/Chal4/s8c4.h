@@ -7,5 +7,5 @@
 
 #endif //CHAL4_S8C4_H
 
-void setBit(int num, int bit);
+void setBit(int *num, int bit);
 int checkBit(int num, int bit);

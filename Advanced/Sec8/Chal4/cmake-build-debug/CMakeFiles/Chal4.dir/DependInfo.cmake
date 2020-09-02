@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "/Users/leanneiannucci/CLionProjects/Udemy-C-Course/Advanced/Sec8/Chal4/main.c" "/Users/leanneiannucci/CLionProjects/Udemy-C-Course/Advanced/Sec8/Chal4/cmake-build-debug/CMakeFiles/Chal4.dir/main.c.o"
+  "/Users/leanneiannucci/CLionProjects/Udemy-C-Course/Advanced/Sec8/Chal4/s8c4.c" "/Users/leanneiannucci/CLionProjects/Udemy-C-Course/Advanced/Sec8/Chal4/cmake-build-debug/CMakeFiles/Chal4.dir/s8c4.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

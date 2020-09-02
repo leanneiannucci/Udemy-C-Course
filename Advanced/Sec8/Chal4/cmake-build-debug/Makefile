@@ -170,6 +170,33 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chal4.dir/build.make CMakeFiles/Chal4.dir/main.c.s
 .PHONY : main.c.s
 
+s8c4.o: s8c4.c.o
+
+.PHONY : s8c4.o
+
+# target to build an object file
+s8c4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chal4.dir/build.make CMakeFiles/Chal4.dir/s8c4.c.o
+.PHONY : s8c4.c.o
+
+s8c4.i: s8c4.c.i
+
+.PHONY : s8c4.i
+
+# target to preprocess a source file
+s8c4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chal4.dir/build.make CMakeFiles/Chal4.dir/s8c4.c.i
+.PHONY : s8c4.c.i
+
+s8c4.s: s8c4.c.s
+
+.PHONY : s8c4.s
+
+# target to generate assembly for a file
+s8c4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chal4.dir/build.make CMakeFiles/Chal4.dir/s8c4.c.s
+.PHONY : s8c4.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -182,6 +209,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... s8c4.o"
+	@echo "... s8c4.i"
+	@echo "... s8c4.s"
 .PHONY : help
 
 
